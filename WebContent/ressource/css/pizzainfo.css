@@ -1,0 +1,34 @@
+.nom{
+	color :#e66f51;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: #FC0 1px 0 10px;
+}
+img{
+	width: 500px;
+	height: 600px;
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid white;
+}
+.info{
+	font-size: large;
+	font-style: oblique;
+	color: #c69393;
+	text-align: center;
+}
+body{
+color:black;
+background-color:white;
+background-image:url(/pizzeria/ressource/images/pizza.png);
+}
+
+#uti{
+	color :#0000a0;
+	font-size: 70px;
+	text-align: center;
+	border: 2px solid black;
+	background: #878478;
+	text-shadow: #00c6ff 1px 0 10px;
+}
